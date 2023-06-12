@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\bin\Debug\net6.0\pt04.exe
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\bin\Debug\net6.0\pt04.deps.json
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\bin\Debug\net6.0\pt04.runtimeconfig.json
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\bin\Debug\net6.0\pt04.dll
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\bin\Debug\net6.0\pt04.pdb
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\pt04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\pt04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\pt04.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\pt04.AssemblyInfo.cs
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\pt04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\pt04.dll
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\refint\pt04.dll
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\pt04.pdb
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\pt04.genruntimeconfig.cache
+C:\Users\User\Desktop\Education\2.0\Languages\Les_01\Hw_01\pt04\obj\Debug\net6.0\ref\pt04.dll
